@@ -34,7 +34,7 @@ $array = array(1, 3);
 $count = count($array);
 for ($i = 0; $i < $count; $i++) {
     echo "\nПроверяем $i: \n";
-    echo "Плохо: " . $array['$i'] . "\n";
+    echo "Плохо: " . $array['$i']птьбблнот клшгармт    ukiu,o7i,ng5y4 rtj . "\n";
     echo "Хорошо: " . $array[$i] . "\n";
     echo "Плохо: {$array['$i']}\n";
     echo "Хорошо: {$array[$i]}\n";
